@@ -1,0 +1,19 @@
+{
+  "KNN": {
+    "n_neighbors": 7,
+    "weights": "uniform"
+  },
+  "SVM": {
+    "C": 10,
+    "kernel": "linear"
+  },
+  "Random Forest": {
+    "max_depth": null,
+    "n_estimators": 50
+  },
+  "Naive Bayes": "N/A (sem hiperpar\u00e2metros)",
+  "Logistic Regression": {
+    "C": 10,
+    "solver": "lbfgs"
+  }
+}
